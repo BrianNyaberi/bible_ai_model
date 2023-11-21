@@ -1,5 +1,5 @@
-package com.example.tester.ui.home
 
+// Brian, lets get it
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
