@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457142125247",
+    "project_id": "uber2023-clone",
+    "storage_bucket": "uber2023-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457142125247:android:ecb298b2cc136463c1fc0a",
+        "android_client_info": {
+          "package_name": "com.example.kotlinuberremake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv4aF-9MQDOAVUNtc95iFT7BFHAdQS2tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457142125247:android:a7f76ff5de6cdec1c1fc0a",
+        "android_client_info": {
+          "package_name": "com.example.tester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv4aF-9MQDOAVUNtc95iFT7BFHAdQS2tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
